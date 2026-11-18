@@ -1,0 +1,27 @@
+[
+    {
+        "id": 101,
+        "name": "Sony Johns",
+        "role": "Backend Developer"
+    },
+     {
+        "id": 102,
+        "name": "Maria Paul",
+        "role": "Database Developer"
+    },
+     {
+        "id": 103,
+        "name": "Madhu Raj",
+        "role": "Frontend Developer"
+    },
+     {
+        "id": 104,
+        "name": "Rena Mohammed",
+        "role": "Database Administrator"
+    },
+     {
+        "id": 105,
+        "name": "Krishna Kumar",
+        "role": "FullStack Developer"
+    }
+]
